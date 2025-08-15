@@ -134,7 +134,7 @@ LIMIT 10;
 creates a well-rounded skill profile.
 
 
-![Most Demanded Skills](assets\Top_Demanded_Skills.png)
+![Most Demanded Skills](assets/Top_Demanded_Skills.png)
 *Bar graph visualization of 10 most demanded data analyst skills*
 
 # 4. Highly Valued Skills
