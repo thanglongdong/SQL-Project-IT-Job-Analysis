@@ -1,5 +1,5 @@
 # Introduction
-This SQL project dives into the job market insights, with the database of data job postings in 2024. In this project, top-paying jobs and high-demand skills are explored to provide valuabe information for IT job seekers who aim to advance their career.
+This SQL project dives into the job market insights, with the database of data job postings in 2023. In this project, top-paying jobs and high-demand skills are explored to provide valuabe information for IT job seekers who aim to advance their career.
 
 Look into the SQL queires [here](/project_sql/)!
 
