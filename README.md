@@ -50,6 +50,8 @@ WHERE job_title LIKE '%Data Analyst%' AND
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
+![Top Paying Skills](assets/Top_Paying_Roles.png)
+*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts*
 
 **Based on the query's output:**
 - Majority are senior or principal-level roles (e.g., Principal Data Analyst, Director, Senior Data Analyst).
